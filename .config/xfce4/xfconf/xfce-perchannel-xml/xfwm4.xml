@@ -86,6 +86,7 @@
       <value type="string" value="Arbeitsfläche 10"/>
       <value type="string" value="Arbeitsfläche 11"/>
       <value type="string" value="Arbeitsfläche 12"/>
+      <value type="string" value="Arbeitsfläche 13"/>
     </property>
     <property name="wrap_resistance" type="int" value="10"/>
     <property name="wrap_windows" type="bool" value="true"/>

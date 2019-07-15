@@ -1,5 +1,4 @@
 [global_config]
-  putty_paste_style = True
 [keybindings]
 [layouts]
   [[default]]
@@ -12,6 +11,8 @@
 [plugins]
 [profiles]
   [[default]]
+    background_darkness = 0.85
+    background_type = transparent
     cursor_color = "#aaaaaa"
     font = Fira Code 12
     use_system_font = False
